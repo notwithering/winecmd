@@ -14,5 +14,5 @@ Z:\home\withering>
 ## Installation
 
 ```ruby
-$ go install github.com/notwithering/winecmd@latest
+go install github.com/notwithering/winecmd@latest
 ```
