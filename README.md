@@ -10,3 +10,9 @@ Microsoft Windows 10.0.19043
 
 Z:\home\withering>
 ```
+
+## Installation
+
+```ruby
+$ go install github.com/notwithering/winecmd@latest
+```
